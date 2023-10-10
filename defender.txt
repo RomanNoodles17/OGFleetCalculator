@@ -1,0 +1,39 @@
+[TECHNOLOGY]
+Weapon Level: 19
+Shield Level: 17
+Armour Level: 18
+
+[SHIPS]
+Small Cargo: 0
+Large Cargo: 0
+Light Fighter: 0
+Heavy Fighter: 0
+Cruiser: 0
+Battleship: 0
+Colony Ship: 0
+Recycler: 0
+Probe: 0
+Bomber: 0
+Destroyer: 0
+Deathstar: 0
+Battlecruiser: 0
+Reaper: 0
+Pathfinder: 0
+
+
+
+[DEFENSE]
+Solar Sattelite: 0
+Rocket Launcher: 492
+Light Laser: 160
+Heavy Laser: 4
+Ion Cannon: 0
+Gauss Cannon: 0
+Plasma Turret: 7
+Small Dome: 0
+Large Dome: 1
+Crawler: 0
+
+[INFO]
+Loot: 2206000 814000 414000
+Coords: 1:250:10

@@ -1,0 +1,294 @@
+UniverseView
+Apps
+UniverseView
+TrashSim
+OGotcha
+
+  
+TrashSim
+Attackers99.44
+A1+
+API:
+load espionage report
+Class
+None
+Collector
+General
+Discoverer
+Combat
+Weapon:
+19
+Shield:
+18
+Armour:
+19
+Drives
+Combustion:
+19
+Impulse:
+17
+Hyperspace:
+13
+Hyperspace Technology:
+12
+Ships
+Small Cargo
+Large Cargo
+Light Fighter
+10001
+Heavy Fighter
+100
+Cruiser
+102
+Battleship
+100
+Colony Ship
+Recycler
+Espionage Probe
+Bomber
+108
+Destroyer
+11
+Deathstar
+1
+Battlecruiser
+50
+Reaper
+19
+Pathfinder
+8
+Coordinates:
+1
+ : 
+97
+ : 
+8
+Speed:
+100%
+Flight time:Infinity:NaN:NaNh
+Fuel consumption:10.681.793
+Cargo capacity:341.914.480
+Clear player
+Clear ships
+Defenders1
+D1+
+API:
+sr-us-172-9a314f36c88a6ba382d2b0189a1b5fbf776b0f91
+load espionage report
+Class
+None
+Collector
+General
+Discoverer
+Combat
+Weapon:
+15
+Shield:
+15
+Armour:
+15
+Hyperspace Technology:
+12
+Ships
+Small Cargo
+7
+Large Cargo
+1
+Light Fighter
+18
+Heavy Fighter
+6
+Cruiser
+5
+Battleship
+2
+Colony Ship
+Recycler
+1
+Espionage Probe
+1
+Bomber
+6
+Destroyer
+1
+Deathstar
+1
+Battlecruiser
+7
+Reaper
+1
+Pathfinder
+2
+Coordinates:
+1
+ : 
+49
+ : 
+8
+Speed:
+-
+Flight time:-
+Fuel consumption:-
+Cargo capacity:4.799.530
+Clear player
+Clear ships
+Simulate
+Defenders planet/moon
+Resources
+Metal: 
+3373222
+Crystal: 
+859609
+Deuterium: 
+6460724
+Defence
+Rocket Launcher
+130
+Light Laser
+130
+Heavy Laser
+14
+Gauss Cannon
+4
+Ion Cannon
+14
+Plasma Turret
+1
+Small Shield Dome
+
+Large Shield Dome
+
+Anti-Ballistic Missiles
+4
+Solar Satellite
+9
+Crawler
+1
+Engineer
+
+Settings
+show all ↓
+Simulations:
+50
+Plunder:
+
+75%
+Fleetspeed:
+0
+Fleet to debris (%):
+30
+Defence to debris (%):
+30
+Number of galaxies:
+4
+Deuterium save factor:
+1
+Cargo hyperspace multiplier:
+5
+Version 7 (Player classes):
+
+Collector faster trading ships (%):
+100
+Collector increased trading ship cargo (%):
+25
+General faster combat ships (%):
+100
+General faster recyclers (%):
+100
+General reduced recycler consumption (%):
+0
+Reaper debris harvest limit (%):
+25
+Simulate
+Result
+Attackers win	/
+Defenders win	/
+Draw	/
+Rounds:	/
+Tactical retreat:	99.44 : 1
+Attackers
+Losses	Profit *
+/	
+/
+/	
+/
+/	
+/
+=
+/	
+=
+/
+Defenders
+Losses	Profit *
+/	
+/
+/	
+/
+/	
+/
+=
+/	
+=
+/
+Planet
+Debris remaining	Moonchance
+/	/
+/
+=
+/	↓ With HST 12
+0	Recycler(s)
+Plunder
+Captured	Possible	Cargo's needed
+/	
+2.529.916	201	Large Cargo
+/	
+644.706	1.003	Small Cargo
+/	
+4.845.543	With HST 12
+=
+/	
+=
+8.020.166	/	Captured
+Initial debris	Attacking reapers mined	Defending reapers mined
+/	
+/	
+/
+/	
+/	
+/
+=
+/	
+=
+/	
+=
+/
+0	Recycler(s)
+How to use?
+1
+The first thing you'll need to do is open the espionage preview report of the player you want to load.
+
+In the report you will see the `API` button at the bottom left of the report, hover it to show the key.
+
+Select the key completely and copy it (hint: use the shortcut Ctrl+c).
+
+2
+When you're at the homepage of TrashSim you need to paste the `API` key into the textfield of the defender or another player.
+
+Now that you've pasted the key press the `load espionage report`. This will load all the needed information into the correct fields, even the server settings.
+
+Afterwards you need to enter your own fleet data before you can start the simulation.
+
+3
+When everything is ready you can press the `Simulate` button at the bottom or in the top right corner.
+
+A loading screen will open where you can track the simulation proces.
+
+The result will appear below the bottom simulate button. It contains a number of tables which will give you an indication on what the battle result could be.
+
+Options
+ Enable multiple workers for running simulations, this will result in faster simulations.
+The amount of workers that'll be used for running the simulations. The best amount would be the number of cores on your computer. (Empty or 0 means that the number of workers will be calculated automatically)
+ Enable The Mostaris NAMS system
+Custom entity info (JSON)
+User Projects Contributors Support Translate Facebook Privacy Policy Cookie Policy
+© 2015 - Klaas Van Parys | Powered by UniverseView Apps | For 

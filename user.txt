@@ -1,0 +1,45 @@
+[SHIPS]
+Small Cargo: 0
+Large Cargo: 0
+Light Fighter: 150000
+Heavy Fighter: 000
+Cruiser: 4000
+Battleship: 3000
+Colony Ship: 0
+Recycler: 0
+Probe: 0
+Bomber: 2000
+Destroyer: 500
+Deathstar: 0
+Battlecruiser: 3000
+Reaper: 750
+Pathfinder: 0
+
+
+
+[TECHNOLOGY]
+Weapon Level: 19
+Shield Level: 19
+Armour Level: 19
+Combustion Drive: 16
+Impulse Drive: 12
+Hyperspace Drive: 12
+Hyperspace Tech: 12
+
+
+
+[SETTINGS]
+Coords: 1:255:12
+Recycler Minimum: 500000
+
+
+
+[ADVANCED]
+Resource Values: 1 1.5 3
+Simulations: 5
+Precision: 2
+Accuracy: 2
+Roundness Unit: 10
+Roundness: 1
+Passes: 50
+Ship Ratio: 0 0 4000 1000 400 200 0 0 0 40 40 0 100 40 0
